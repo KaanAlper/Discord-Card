@@ -94,7 +94,7 @@ feedbackInput.addEventListener("keyup", (e) => {
     feedbackInput.blur();
     // Api wiil be add soon for a complete feedback system for me ( more big project will be add soon on my github, that's why would be nice to have a feedback system ) :)
     feedbackState.classList.add("error");
-    feedbackState.innerText = "Api is not available for the moment, try later.";
+    feedbackState.innerText = "If you really want to tell me something, text me on steam or discord...";
   }
 });
 
