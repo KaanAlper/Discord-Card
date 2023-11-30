@@ -409,17 +409,11 @@ html {
   .card-container {
     width: 720px;
   }
-  .card:nth-child(3) {
-    display: none;
-  }
 }
 
 @media screen and (max-width: 770px) {
   .card-container {
     width: max-content;
-  }
-  .card:nth-child(2) {
-    display: none;
   }
 }
 
