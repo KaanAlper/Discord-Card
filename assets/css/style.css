@@ -94,14 +94,6 @@ html {
   display: none;
 }
 
-.card-header .banner {
-  width: 100%;
-  height: 60px;
-  background: #ff8527;
-  border-radius: 6px 6px 0 0;
-  overflow: hidden;
-}
-
 .card-header .banner-img {
   width: 100%;
   height: 120px;
