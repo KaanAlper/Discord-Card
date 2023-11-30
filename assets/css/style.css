@@ -75,7 +75,7 @@ html {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  width: 1450px;
+  width: 450px;
   z-index: 0;
 }
 
