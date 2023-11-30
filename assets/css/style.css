@@ -403,9 +403,6 @@ html {
   .card-container {
     width: 1100px;
   }
-  .card:last-child {
-    display: none;
-  }
 }
 
 @media screen and (max-width: 1150px) {
