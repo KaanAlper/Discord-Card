@@ -11,6 +11,7 @@ const randomHexColor = () => {
 
 const ramdomWord = () => {
   const words = [
+    "468376","311042","260943","352759","271339",
     "Last Game Bender",
     "Liberal Captitalism Fallower",
     "Best Of Creatures",
